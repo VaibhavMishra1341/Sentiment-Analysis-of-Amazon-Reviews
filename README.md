@@ -140,9 +140,8 @@ def categorical_var_summary(df, column_name):
 ## Contact Me 👥
 
 - Website - [My Portfolio](https://vaibhav-mishra.vercel.app/)
-- Github - [@VaibhavMishra1341](https://github.com/VaibhavMishra1341)
 - LinkedIn - [@VaibhavMishra](https://www.linkedin.com/in/vaibhav-mishra-vm/)
-- Instagram - [@_vaibhav__mishra_](https://www.instagram.com/_vaibhav__mishra_)
+- Gmail - [Vaibhav Mishra](mailto:vaibhavc608@gmail.com)
 
 ## License 📄
 
