@@ -58,7 +58,13 @@ python analysis.py
 ## Results
 
 - The script provides insights into Amazon reviews, including data distribution, missing value analysis, and sentiment analysis results.
+
+![newplot2](https://github.com/VaibhavMishra1341/Sentiment-Analysis-of-Amazon-Reviews/assets/39896268/822caf3b-b32e-4867-a908-06c865af5250)
+
+
 - Plots generated using Plotly and Matplotlib visualize data patterns and sentiment distribution.
+
+![newplot](https://github.com/VaibhavMishra1341/Sentiment-Analysis-of-Amazon-Reviews/assets/39896268/8057e584-2f19-4ddc-a378-e0faac2d6aaa)
 
 ## Contact Me
 
