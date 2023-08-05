@@ -1,4 +1,4 @@
-# Amazon Reviews Analysis
+# Sentiment Analysis of Amazon Customer Reviews
 
 This project focuses on analyzing Amazon product reviews using Python. It involves data visualization, missing value handling, sentiment analysis, and dynamic plotting using various libraries like Plotly, Matplotlib, TextBlob, and VADER Sentiment.
 
